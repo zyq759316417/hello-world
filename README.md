@@ -16,3 +16,6 @@ A graphics editor
 
 **Run it**
 <br>
+<img src="./run.png">
+<br><br>
+<img src="./run2.png">
