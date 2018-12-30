@@ -15,7 +15,7 @@ A graphics editor
 <img src="./import2.png">
 
 ### Run it
-<br><br>
+<br>
 <img src="./run.png">
 <br><br>
 <img src="./run2.png">
