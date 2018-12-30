@@ -15,3 +15,6 @@ A space invaders clone. Assets used in the game can be found [here](http://goope
 <img src="./import2.png">
 
 **Run it**
+<br>
+
+<img src="./spaceInvader.png">
