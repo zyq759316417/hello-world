@@ -8,8 +8,8 @@ A space invaders clone. Assets used in the game can be found [here](http://goope
 
 `right click` -> `import` -> `General` -> `Existing Projects into Workspace`
 <br>
-![how to import](/import1.png, "import")
+<img src="./import1.png">
 
 `next` -> `Browse..` and select the src file
 <br>
-![how to import](/import2.png, "import")
+<img src="./import2.png">
